@@ -1,0 +1,6 @@
+bin/
+obj/
+UI/node_modules/
+UI/build/
+*.user
+.vs/
